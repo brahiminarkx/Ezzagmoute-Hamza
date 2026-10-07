@@ -17,7 +17,7 @@
       <a href="[https://www.linkedin.com/in/ibrahim-amkhichan/](https://www.linkedin.com/in/ibrahim-amkhichan/)" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
       </a>
-      <a href="https://www.instagram.com/ezzagmoute_codes/" target="_blank">
+      <a href="https://www.linkedin.com/in/ibrahim-amkhichan/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
       </a>
       <a href="https://wa.me/+212697669519?text=Hello%20Hamza%2C%20can%20you%20help%20me%3F" target="_blank">
